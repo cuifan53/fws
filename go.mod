@@ -1,4 +1,4 @@
-module fws
+module github.com/cuifan53/fws
 
 go 1.15
 
